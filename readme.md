@@ -1,3 +1,3 @@
 # Shopping List
 
-Simple shopping list from moder vanila JS
+Simple shopping list from modern vanila JS
